@@ -1,6 +1,7 @@
 {
   "name": "passwordgenerator",
-  "private": true,
+  "private": false,
+  "main" : "index.html",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
